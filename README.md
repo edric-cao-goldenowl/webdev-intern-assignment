@@ -35,6 +35,10 @@ Your application should have at least features in [Must have](#must-have), thing
 
 You can use any front-end library/framework like React, Angular, Vue, ... or just simple things with HTML + CSS + Javascript (JQuery).
 
+- Back-end: You can use any Golang Web package/framework such as Gin, Echo, Iris, etc. or just with pure Golang. (Build API or SSR)
+
+- Database: MySQL, PostgreSQL, Mongo, etc. or any databases
+
 - Products data:
   - [`./app/data/shoes.json`](./app/data/shoes.json)
 - Images & icons:
